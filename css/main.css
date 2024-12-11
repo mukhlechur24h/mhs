@@ -1,4 +1,13 @@
-div{
-    background-color: tomato;
-    padding: 10px;
+
+.container{
+border: 2px solid sandybrown;
+display: flex;
+justify-content:last baseline;
+height: 300px;
+
+}
+.box{
+    width: 100px;
+    height: 100px;
+    border: 2px dotted black; 
 }
